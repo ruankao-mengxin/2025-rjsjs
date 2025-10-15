@@ -1,0 +1,20 @@
+上午题 #8 UML——内容大纲
+
+https://www.bilibili.com/video/BV1a44y1K7HH?p=1
+
+1、讲解形式：P1
+2、UML事物：P2~P4
+3、UML关系：P5~P18
+4、关联多重度：P19~P23
+5、UML类图：P24~P30
+6、UML对象图：P31~P32
+7、UML用例图：P33~P39
+8、UML序列图：P40~P44
+9、UML通信图：P45~P48
+10、UML状态图：P49~P58
+11、UML活动图：P59~P64
+12、UML构建图：P65~P68
+13、UML部署图：P69~P72
+14、UML图总和：P73~P76
+15、杂题选讲：P77~P81
+16、UML总结：P82

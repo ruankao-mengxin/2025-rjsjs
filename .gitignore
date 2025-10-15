@@ -1,0 +1,16 @@
+# 忽略一些可能很大的视频文件
+*.mp4
+*.MP4
+*.avi
+*.AVI
+*.mov
+*.MOV
+
+# 临时文件
+*.tmp
+*.temp
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
